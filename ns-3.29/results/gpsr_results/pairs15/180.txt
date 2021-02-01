@@ -1,0 +1,2 @@
+Seed	LostPackets	totalTx	totalRx	PDR (%)	HopCount	Delay (ms)	PhyRxDrop	PhyTxDrop
+2230	0	200	198	99.00	34.50	20.92	23176	0

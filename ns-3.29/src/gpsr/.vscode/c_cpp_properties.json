@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/x/Documents/ns3-0/ns3.29-with-gpsr/ns-3.29/build/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/x/Documents/ns3-0/ns3.29-with-gpsr/ns-3.29/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
